@@ -42,20 +42,7 @@ a{
 /* For small and medium devices */
 @media(min-width:320px) and (max-width:768px) {
     .card{
-        background-color: blue;
         width: 15em;
-
-
-
-
-
-
-
-
-
-
-        
-
     }
     
 }
